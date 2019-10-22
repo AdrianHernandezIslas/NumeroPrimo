@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Numeros
+comment1.params=
+comment1.target=Numeros()
+comment2.params=numero
+comment2.target=boolean\ esPrimo(int)
+numComments=3
